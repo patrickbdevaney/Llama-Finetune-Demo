@@ -1,6 +1,9 @@
 # Miami Geography and Ecology Inference Model
 
-This repository contains a Jupyter notebook that runs a fine-tuned version of the Llama-27b model from Hugging Face. The model has been trained on public data concerning the geography of Miami and academic research on the impact of urban activity on the natural environment.
+This repository contains a Jupyter notebook that runs a fine-tuned version of the Llama2-7b model from Hugging Face:
+https://huggingface.co/patrickbdevaney/mia
+
+The model has been trained on public data concerning the geography of Miami and academic research on the impact of urban activity on the natural environment.
 
 ## Model Objective
 
@@ -8,7 +11,9 @@ The goal of this model is to leverage the text-corpus of large language models t
 
 ## Getting Started
 
-The Jupyter notebook is designed to be run on Google Colab with a T4 GPU. To get started, you need to have a Hugging Face access token connected to Colab.
+The Jupyter notebook is designed to be run on Google Colab with a T4 GPU. To get started, you need to have a Hugging Face access token connected to Colab:
+
+https://colab.research.google.com/drive/1HQno5N4WV9IWWomBD7OeudtCqfdrJw-P?usp=sharing
 
 1. Connect to a T4 GPU on Google Colab.
 2. Connect your Hugging Face account to Colab.
